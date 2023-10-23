@@ -1,0 +1,28 @@
+.container{
+    background-color: rgb(173, 173, 173);
+    width: 20em;
+    margin: auto;
+    padding: 1em;
+    border-radius: 1em;
+}
+p{
+    text-align: center;
+}
+input{
+    border-radius: 1em;
+    width:100%;
+    box-sizing: border-box;
+    height: 5em;
+    font-size:1em;
+    border: none;
+}
+table{
+    width:100%;
+    box-sizing: border-box;
+}
+.screen{
+    width:100%;
+    box-sizing: border-box;
+    text-align: end;
+    padding: 1em;
+}
